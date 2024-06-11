@@ -159,6 +159,5 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-# Any json file, especially Google's services account credentials.json
-*.json
+Google's services account credentials.json
 credentials.json
